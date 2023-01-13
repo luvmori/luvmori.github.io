@@ -3,7 +3,7 @@ Samantha Moriel N. Portugal
 
 **9-CAMPION**
 
-*hi mhiema*
+***hi chat kana sakin pls***
 
 ***ako nalang kasi***
 
