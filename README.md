@@ -1,5 +1,4 @@
 # riel
-Samantha Moriel N. Portugal
 
 ***mabirthday na po ako send regalo po thx***
 
