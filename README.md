@@ -7,7 +7,9 @@ Samantha Moriel N. Portugal
 
 ***ako nalang kasi***
 
-https://open.spotify.com/embed/playlist/3R3sTAho5003QMeuovxNEP?utm_source=generator&theme=0
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3R3sTAho5003QMeuovxNEP?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 ![278723122_3240542546188163_1174535909088833960_n](https://user-images.githubusercontent.com/122416324/212216796-7619f7a7-6b02-4d19-9a41-94ac3dc3166c.jpg)
 
